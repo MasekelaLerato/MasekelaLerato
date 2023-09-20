@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lerato Masekela</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">A passionate developer from South Africa</h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="masekelalerato" /> </p>
 
