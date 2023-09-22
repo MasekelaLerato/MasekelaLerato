@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **masekelalerato7@gmail.com**
 
-- 📄 Know about my experiences [http://127.0.0.1:5500/digital-resume/index.html#contact%20me](http://127.0.0.1:5500/digital-resume/index.html#contact%20me)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
