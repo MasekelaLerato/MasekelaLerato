@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lerato Masekela</h1>
 <h3 align="center">A passionate developer from South Africa</h3>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="masekelalerato" height="130" width="240" /> </p>
+<p align="centre"> <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="masekelalerato" height="160" width="280" /> </p>
 
 - 🔭 I’m currently working on **Dynamic Web Apps**
 
