@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lerato Masekela</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 <p align="centre"> <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="masekelalerato" height="160" width="280" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masekelalerato&label=Profile%20views&color=0e75b6&style=flat" alt="masekelalerato" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=masekelalerato&label=Profile%20views&color=0e75b6&style=flat" alt="masekelalerato"  height="60" width="80"/> </p> -->
 
 - 🌱 I’m currently learning **JS Frameworks**
 
