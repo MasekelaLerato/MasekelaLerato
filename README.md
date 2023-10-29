@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lerato Masekela</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">I am a junior software developer with a strong foundation in programming and a certification in software development. I am proficient in HTML,CSS and JavaScript. My education has equipped me with the essential skills needed for the field. I am a dedicated and quick learner, eager to apply my knowledge to real-world projects. My adaptability, problem-solving abilities, and commitment to high-quality code make me a valuable addition to any software development team. I am excited to collaborate, learn from experienced professionals, and contribute effectively to achieve project objectives.</h3>
 <p align="centre"> <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" alt="masekelalerato" height="160" width="280" /> </p>
 
 
